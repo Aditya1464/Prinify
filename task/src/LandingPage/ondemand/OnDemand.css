@@ -1,0 +1,32 @@
+
+
+.ondemand{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin:15rem 0rem 15rem 0rem;
+}
+.ondemand-image img{
+    width: 25rem;
+    height: 35rem;
+    border-radius: 1.5rem;
+}
+.ondemandtext{
+    margin-left: 15rem;
+    width: 25rem;
+}
+.ondemandtext .ondemand-paragraph{
+    color: #535d61;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    font-size: large;
+}
+.all-product-link{
+    color: #319e50;
+    font-size: larger;
+    text-decoration: none;
+    font-weight: 600;
+
+}
