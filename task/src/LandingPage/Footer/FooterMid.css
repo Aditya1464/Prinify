@@ -1,0 +1,22 @@
+.FooterMid{
+    display: flex;
+    gap: 7rem;
+    flex: 1;
+    margin-top: 3rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.FooterMid p{
+    font-weight: 900;
+    margin-bottom: 0.7rem;
+}
+
+.FooterSection{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
