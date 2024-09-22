@@ -1,0 +1,119 @@
+.Store{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+#components{
+    position: absolute;
+    object-fit: contain;
+    transition: width 0.5s linear;
+}
+
+#components img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px;
+    object-fit: contain;
+}
+
+
+.storeComp1{
+    width: 5rem;
+    height: 5rem;
+    top: 3rem;
+    left: 30rem;
+}
+
+.storeComp1:hover{
+    width: 5.5rem;
+}
+
+.storeComp2{
+    width: 5rem;
+    height: 5rem;
+    top: 5rem;
+    left: 55rem;
+}
+
+.storeComp2:hover{
+    width: 5.5rem;
+}
+
+.storeComp3{
+    width: 5rem;
+    height: 5rem;
+    top: 3rem;
+    left: 70rem;
+}
+
+.storeComp3:hover{
+    width: 5.5rem;
+}
+
+.storeComp4{
+    width: 8rem;
+    height: 8rem;
+    top: 13rem;
+    left: 45rem;
+}
+
+.storeComp4:hover{
+    width: 8.5rem;
+}
+
+.storeComp5{
+    width: 5rem;
+    height: 5rem;
+    top: 12rem;
+    left: 62rem;
+}
+.storeComp5:hover{
+    width: 5.5rem;
+}
+.storeComp6{
+    width: 7rem;
+    height: 7rem;
+    top: 23rem;
+    left: 19rem;
+}
+.storeComp6:hover{
+    width: 7.5rem;
+}
+.storeComp7{
+    width: 6rem;
+    height: 6rem;
+    top: 17rem;
+    left: 32rem;
+}
+.storeComp7:hover{
+    width: 6.5rem;
+}
+.storeComp8{
+    width: 5rem;
+    height: 5rem;
+    top: 27rem;
+    left: 40rem;
+}
+.storeComp8:hover{
+    width: 5.5rem;
+}
+.storeComp9{
+    width: 5rem;
+    height: 5rem;
+    top: 25rem;
+    left: 60rem;
+}
+.storeComp9:hover{
+    width: 5.5rem;
+}
+.storeComp10{
+    width: 7rem;
+    height: 7rem;
+    top: 22rem;
+    left: 75rem;
+}
+.storeComp10:hover{
+    width: 7.5rem;
+}
