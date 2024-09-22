@@ -1,0 +1,24 @@
+.create-box{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:15rem 0rem 15rem 0rem;
+}
+.create-image img{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 3rem;
+}
+.create-container{
+    width: 20rem;
+    margin-right: 3rem;
+}
+.heading1-text{
+    color: #319e50;
+}
+.heading2-text{
+    color: black;
+   margin-bottom: 1.5rem;
+}

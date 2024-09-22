@@ -1,0 +1,20 @@
+.robust-box{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:15rem 0rem 15rem 0rem;
+}
+.robust-image{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 3rem;
+}
+.description-text{
+    color: #535d61;
+}
+.robust-container{
+    width: 20rem;
+    margin-right: 3rem;
+}
