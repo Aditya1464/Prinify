@@ -1,6 +1,6 @@
 let data = [
     {
-        "image": "../../public/custom-products.webp", 
+        "image": "../public/custom-products.webp", 
         "heading1": "CREATE",
         "heading2":"custom products",
         "text": "Easily add your designs to a wide range of products using our free tools"
