@@ -22,3 +22,18 @@
     color: black;
    margin-bottom: 1.5rem;
 }
+@media (max-width:440px) {
+    .create-box{
+        margin-left: 1rem;
+    }
+}
+@media (max-width:950px) {
+    .create-container{
+        width: 10rem;
+    }
+}
+@media (max-width:440px) {
+    .create-container{
+        width: 15rem;
+    }
+}

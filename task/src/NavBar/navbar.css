@@ -26,6 +26,7 @@ a:hover{
     width: 100%;      
     z-index: 1000;    
     background-color: white;
+    justify-content: space-around;
 }
 .login{
     width: 5.4rem;
@@ -69,4 +70,32 @@ a:hover{
 li{
     font-size: 1.1rem;
     text-decoration: none;
+}
+
+@media (max-width:1360px){
+    .icon{
+        margin-left: 0rem;
+    }
+    .userButton{
+        margin: 0px;
+        width: 15rem;
+    }
+}
+@media (max-width:950px){
+    .links{
+       display: none;
+    }
+    .navbar{
+        justify-content: space-around;
+    }
+}
+@media (max-width:540px){
+    .printifyLogo{
+        width: 5rem;
+        height: 5rem;
+    }
+    .userButton{
+        width: auto;
+        margin: 0px;
+    }
 }

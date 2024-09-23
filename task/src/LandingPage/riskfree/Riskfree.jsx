@@ -57,7 +57,7 @@ function Riskfree() {
         </div>
       </div>
       <div className="riskfreeimage">
-        <img src="../../download.jpg" alt="Risk-Free" />
+        <img src="../../d.jpg" alt="Risk-Free" />
       </div>
     </div>
   );
