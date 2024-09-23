@@ -36,3 +36,9 @@
 .talktosalesparagraph{
     width: 22rem;
 }
+
+@media(max-width:390px){
+    .talktosalesparagraph h2{
+        font-size: 1rem;
+    }
+}

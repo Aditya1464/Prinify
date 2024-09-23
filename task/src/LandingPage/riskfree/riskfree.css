@@ -8,6 +8,7 @@
     padding: 2rem;
     height: 100vh; 
     margin:15rem 0rem 15rem 0rem;
+    overflow: hidden;
   }
   
  
@@ -104,5 +105,7 @@
   @media (max-width:520px) {
     .riskfree-container{
       padding: 2rem;
+      height: 40rem;
     }
+   
   }
