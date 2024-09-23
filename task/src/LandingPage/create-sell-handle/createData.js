@@ -6,7 +6,7 @@ let data = [
         "text": "Easily add your designs to a wide range of products using our free tools"
     },
     {
-        "image": "../../public/your-products.webp", 
+        "image": "../public/your-products.webp", 
         "heading1": "SELL",
         "heading2":"on your terms",
         "text": "You choose the products, sale price, and where to sell"
