@@ -1,7 +1,10 @@
 .FooterTop{
+    width: 100%;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    gap: 40rem;
+    justify-content: space-evenly;
+    gap: 1rem;
 }
 
 .FooterTopLogo img{

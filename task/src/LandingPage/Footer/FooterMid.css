@@ -1,8 +1,16 @@
 .FooterMid{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 7rem;
     flex: 1;
     margin-top: 3rem;
+    padding: 0 2rem 0 2rem;
+}
+
+.FooterMidInner{
+    display: flex;
+    gap: 7rem;
 }
 
 a{

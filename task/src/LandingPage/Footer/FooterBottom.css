@@ -9,6 +9,14 @@
     justify-content: center;
 }
 
+.FooterBottomServices{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
 .FooterBottomServices a{
     margin-left: 1rem;
     font-size: 0.95rem;
