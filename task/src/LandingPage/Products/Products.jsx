@@ -26,9 +26,8 @@ export default function Products(){
                     <img className="img1" src="https://printify.com/pfh/assets/animations/images/img_5.png" alt="" />
                     <img className="img2" src="https://printify.com/pfh/assets/animations/images/img_0.png" alt="" />
                 </div>
-                <div className="box2">
-                </div>
             </div>
+            
         </div>
     )
 }
